@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="estados">
+        <item>@string/ac</item>
+        <item>@string/al</item>
+        <item>@string/am</item>
+        <item>@string/ap</item>
+        <item>@string/ba</item>
+        <item>@string/ce</item>
+        <item>@string/df</item>
+        <item>@string/es</item>
+        <item>@string/go</item>
+        <item>@string/ma</item>
+        <item>@string/mg</item>
+        <item>@string/ms</item>
+        <item>@string/mt</item>
+        <item>@string/pa</item>
+        <item>@string/pb</item>
+        <item>@string/pe</item>
+        <item>@string/pi</item>
+        <item>@string/pr</item>
+        <item>@string/rj</item>
+        <item>@string/rn</item>
+        <item>@string/ro</item>
+        <item>@string/rr</item>
+        <item>@string/rs</item>
+        <item>@string/sc</item>
+        <item>@string/se</item>
+        <item>@string/sp</item>
+        <item>@string/to</item>
+    </string-array>
+
+    <string-array name="nomes">
+        <item>@string/eduardo</item>
+        <item>@string/angelica</item>
+        <item>@string/beatriz</item>
+        <item>@string/lucas</item>
+        <item>@string/amanda</item>
+        <item>@string/rosangela</item>
+        <item>@string/aline</item>
+        <item>@string/ricardo</item>
+        <item>@string/giovanna</item>
+        <item>@string/monica</item>
+    </string-array>
+
+    <integer-array name="idades">
+        <item>31</item>
+        <item>32</item>
+        <item>31</item>
+        <item>29</item>
+        <item>26</item>
+        <item>48</item>
+        <item>39</item>
+        <item>33</item>
+        <item>22</item>
+        <item>19</item>
+    </integer-array>
+
+    <integer-array name="objetivos">
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="emails">
+        <item>@string/eduardoEmail</item>
+        <item>@string/angelicaEmail</item>
+        <item>@string/beatrizEmail</item>
+        <item>@string/lucasEmail</item>
+        <item>@string/amandaEmail</item>
+        <item>@string/rosangelaEmail</item>
+        <item>@string/alineEmail</item>
+        <item>@string/ricardoEmail</item>
+        <item>@string/giovannaEmail</item>
+        <item>@string/monicaEmail</item>
+    </string-array>
+</resources>
